@@ -1,0 +1,9 @@
+bin
+obj
+.vs
+TestProject1/obj/
+TestProject1/bin/
+TestProject2/obj/
+TestProject2/bin/
+TestProject3/obj/
+TestProject3/bin/
